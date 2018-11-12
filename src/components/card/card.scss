@@ -1,0 +1,19 @@
+
+.card {
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  position: relative;
+
+  .card-image {
+    height: 220px;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .buy-button {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+  }
+
+}
